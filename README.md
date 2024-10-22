@@ -1,8 +1,8 @@
 ## Hi there, I'm hzihhuang 👋
 
 <pre>
-只要你肯用功，那你就有用不完的功。
-                              -- 小趴菜
+只要你肯吃苦，你就有吃不完的苦。
+                              -- 前端小趴菜
 </pre>
 
 |   **博&emsp;客**   |  **<https://hzihhuang-site.github.io/h-blog>**        |
@@ -22,8 +22,10 @@
 
 **Frameworks and Tools:**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=fff)
+![Nest.js](https://img.shields.io/badge/NestJS-d73d66?logo=nestjs)
+![Vite](https://img.shields.io/badge/Vite-ffffff?logo=Vite)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 

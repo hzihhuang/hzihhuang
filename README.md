@@ -1,9 +1,14 @@
-## Hi there, I'm hzihhuang 👋
-
+## Hi there, I'm hzihhuang 👋  
 <pre>
 只要你肯吃苦，你就有吃不完的苦。
                               -- 前端小趴菜
 </pre>
+
+**Visitor Count:**
+
+<img src="https://profile-counter.glitch.me/hzihhuang/count.svg" />
+
+**Site:**
 
 |   **博&emsp;客**   |  **<https://hzihhuang-site.github.io/h-blog>**        |
 | :------------: | :------------------------------------------------------- |
